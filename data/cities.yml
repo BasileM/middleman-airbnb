@@ -10,3 +10,7 @@
   address: "Avenue de copacabana"
   picture: https://kitt.lewagon.com/placeholder/cities/rio
   user: https://kitt.lewagon.com/placeholder/users/olivierreynaud
+- name: Marseille
+  address: "Avenue de copacabana"
+  picture: https://kitt.lewagon.com/placeholder/cities/marseille
+  user: https://kitt.lewagon.com/placeholder/users/olivierreynaud
